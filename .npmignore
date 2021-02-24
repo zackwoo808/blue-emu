@@ -1,0 +1,10 @@
+.gitignore
+.vscode
+.editorconfig
+.eslintrc
+.nvmrc
+.npmrc
+Jenkinsfile
+fd-pkgs
+misc
+__tests__

@@ -1,0 +1,15 @@
+{
+  "name": "blue-emu",
+  "version": "1.0.0",
+  "description": "For security research testing only. Not for production use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.mgo.com/scm/tix-coreapi/blue-emu.git"
+  },
+  "author": "zwoo",
+  "license": "ISC"
+}
