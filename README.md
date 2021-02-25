@@ -39,5 +39,5 @@ require('blue-emu');
 Look for console log during app startup. Verify that it says *`private test`* and not *`public test`*.
 
 ```
-*************** blue-emu private test ***************
+*************** blue-emu public test ***************
 ```
