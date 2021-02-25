@@ -36,7 +36,7 @@ Require module in `app/index.js`
 require('blue-emu');
 ```
 
-Look for console log during app startup. Verify that it says *`private test`* and not *`public test`*.
+Look for console log during app startup. Verify that it says *`public test`* and not *`private test`*.
 
 ```
 *************** blue-emu public test ***************
