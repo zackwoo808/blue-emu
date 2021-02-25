@@ -1,6 +1,6 @@
 {
   "name": "blue-emu",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "For security research testing only. Not for production use.",
   "main": "index.js",
   "scripts": {
