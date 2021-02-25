@@ -1,6 +1,6 @@
 # blue-emu
 
-###*For security research purposes only. Not for production use.*
+### *For security research purposes only. Not for production use.*
 
 ## Table of Contents
 
