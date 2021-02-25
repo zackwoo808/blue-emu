@@ -1,1 +1,1 @@
-console.log('*************** blue-emu private test ***************');
+console.log('*************** blue-emu public test ***************');
